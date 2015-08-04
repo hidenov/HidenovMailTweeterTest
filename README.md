@@ -1,7 +1,11 @@
 HidenovMailTweeterTest
 ======================
 
-ただいま準備中です<br />
+このリポジトリにあるスクリプトについては、<br />
+以下のリンクから当ブログで連載したコンテンツを参照してください。<br />
+
+<a href="http://hidenov.blog4.fc2.com/blog-category-45.html" target="_blank" title="メールでTweet!">メールでTweet!</a>
+
 <br />
 このコンテンツは、特に明示されている場合を除いて、次のライセンスに従います。<br />
 <br />
